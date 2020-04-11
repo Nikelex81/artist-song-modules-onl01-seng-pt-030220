@@ -1,3 +1,5 @@
+require_relative '../config/environment'
+
 module Memorable
   def reset_all
     all.clear
