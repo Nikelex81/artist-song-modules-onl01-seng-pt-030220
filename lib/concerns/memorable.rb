@@ -1,4 +1,4 @@
-require_relative '../config/environment'
+# require_relative '../config/environment'
 
 module Memorable
   def reset_all
