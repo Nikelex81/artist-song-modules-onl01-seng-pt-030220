@@ -5,7 +5,7 @@ class Song
   attr_reader :artist
   
   include Memorable
-  # extend Memorable
+  extend Memorable
   
   @@songs = []
 
