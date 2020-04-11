@@ -1,4 +1,4 @@
-require_relative '../config/environment'
+# require_relative '../config/environment'
 
 modue Findable
   def find_by_name(name)
