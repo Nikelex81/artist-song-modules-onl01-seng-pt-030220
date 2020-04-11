@@ -1,5 +1,5 @@
 require_relative 'spec_helper.rb'
-require_relative '../config/environment'
+require_relative '../config/environment.rb'
 
 describe Song do
   before(:each) do
