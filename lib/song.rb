@@ -6,6 +6,7 @@ class Song
   
   include Memorable
   extend Memorable
+  include Paramable
   
   @@songs = []
 
